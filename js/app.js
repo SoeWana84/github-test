@@ -1,1 +1,1 @@
-<script>hello world</script>
+// hello js
